@@ -1,0 +1,9 @@
+[package]
+name = "vsplugin"
+version = "0.1.0"
+authors = ["chengyuhui <chengyuhui1@gmail.com>"]
+
+[lib]
+name = "vsplugin"
+
+[dependencies]
